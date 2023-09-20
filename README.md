@@ -1,7 +1,7 @@
-# LTE-Maritime 항적 데이터 기반 항로 예측 시각화 시스템 연구 (선박해양플랜트연구소)
+# LTE-Maritime 항적 데이터 기반 항로 예측 시각화 시스템 연구
 
 - 참여 인원 및 기간
-    - 2명 (Data Engineer, Modeling 담당)
+    - 3명 (Data Engineer, Modeling 담당)
     - 2023.01 ~ 현재
 - 데이터: AIS, LTE-M 선박 항적 데이터 (위치 시계열 데이터)
 - 과업 목표
