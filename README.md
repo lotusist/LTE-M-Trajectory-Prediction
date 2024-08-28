@@ -11,4 +11,3 @@
 - 기여: Data Engineer, Baseline LSTM Modeling 
 - 사용기술
     - Deep Learning Modeling : PyTorch LSTM,
-    - Front-end: Flask, HTML
